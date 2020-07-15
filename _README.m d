@@ -1,0 +1,11 @@
+# B4Y0U
+Termux keys shortcut
+
+# usage
+$pkg install python<br>
+$pkg install git<br>
+$git clone https://github.com/B4Y0U<br>
+$cd B4Y0U<br>
+$python B4Y0U.py
+
+
